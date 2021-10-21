@@ -1,4 +1,4 @@
-Babel==2.6.0
+Babel==2.9.1
 backports.shutil-get-terminal-size==1.0.0
 checksum==1.0.2
 decorator==4.0.10
