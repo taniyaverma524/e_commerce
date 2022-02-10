@@ -2,7 +2,7 @@ Babel==2.6.0
 backports.shutil-get-terminal-size==1.0.0
 checksum==1.0.2
 decorator==4.0.10
-Django==2.2
+Django==2.2.27
 django-extensions==2.1.6
 django-multiselectfield==0.1.8
 django-multiupload==0.5.2
